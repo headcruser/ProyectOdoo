@@ -7,7 +7,7 @@
     'version': '1.0',
     'category': 'Sales',
     'author': 'Daniel Martinez',
-    'summary': 'Factura Electronica',
+    'summary': 'Sales check',
     'installable': True,
     'application': True,
 }
