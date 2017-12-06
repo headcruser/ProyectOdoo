@@ -11,3 +11,18 @@ Integra funcionalidades de un CRM utilizando Herencias
 Este modulo es un ejemplo para la gestion de un sistema de facturas,
 utilizando un proceso de facturación en concreto.
 --------------------------------------
+
+Estructura del modulo
+
+    mymodules/facturas
+    |-- __init__.py
+    |-- __manifest__.py
+    |-- static
+    |   `-- style
+    |       `-- custom.less
+    |   `-- description
+    |       `-- icon.png
+    `-- views
+        |-- options.xml
+        |-- pages.xml
+        `-- snippets.xml
